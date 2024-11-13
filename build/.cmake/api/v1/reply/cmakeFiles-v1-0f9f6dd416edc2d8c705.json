@@ -849,7 +849,7 @@
 	"paths" : 
 	{
 		"build" : "/home/stelle/repos/cmake_template_Cpp/build",
-		"source" : "/home/stelle/repos/cmake_template/src"
+		"source" : "/home/stelle/repos/cmake_template_Cpp/src"
 	},
 	"version" : 
 	{

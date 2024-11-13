@@ -615,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/stelle/repos/cmake_template/src"
+			"value" : "/home/stelle/repos/cmake_template_Cpp/src"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1251,7 +1251,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/stelle/repos/cmake_template/src"
+			"value" : "/home/stelle/repos/cmake_template_Cpp/src"
 		},
 		{
 			"name" : "_CMAKE_CXX_LINKER_PUSHPOP_STATE_SUPPORTED",
